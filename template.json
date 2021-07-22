@@ -1,7 +1,6 @@
 [
     {
       "term": "app.name",
-      "definition": "TODO List",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -9,7 +8,6 @@
     },
     {
       "term": "app.login.text",
-      "definition": "Enter your credentials below to login",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -17,7 +15,6 @@
     },
     {
       "term": "app.login.message.success",
-      "definition": "Login successful !\nWelcome back %s !",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -25,7 +22,6 @@
     },
     {
       "term": "app.login.message.error",
-      "definition": "Make sure you've entered the correct username and password",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -33,7 +29,6 @@
     },
     {
       "term": "app.login.password.forget",
-      "definition": "I forgot my password",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -41,7 +36,6 @@
     },
     {
       "term": "app.login.password.reset",
-      "definition": "Enter your address in the field below. A new password will be sent to your inbox.",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -49,7 +43,6 @@
     },
     {
       "term": "app.register.text",
-      "definition": "Sign up for free! No credit card required!",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -57,7 +50,6 @@
     },
     {
       "term": "app.register.message.success",
-      "definition": "Thank you for signing up !\nPlease check your email address to activate your account.",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -65,7 +57,6 @@
     },
     {
       "term": "app.register.message.error",
-      "definition": "We were unable to sign you up.\nPlease correct the marked fields.",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -73,7 +64,6 @@
     },
     {
       "term": "app.menu.terms",
-      "definition": "Terms and conditions",
       "context": "",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -81,7 +71,6 @@
     },
     {
       "term": "app.login.text",
-      "definition": "Username",
       "context": "form_label",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
@@ -89,10 +78,6 @@
     },
     {
       "term": "app.users.active",
-      "definition": {
-        "one": "Just one user online",
-        "other": "There are %d users online"
-      },
       "context": "",
       "term_plural": "app.users.active",
       "reference": "\/app\/modules\/views",
@@ -100,7 +85,6 @@
     },
     {
       "term": "app.login.pass",
-      "definition": "Password",
       "context": "form_label",
       "term_plural": "",
       "reference": "\/app\/modules\/views",
